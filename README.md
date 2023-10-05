@@ -6,7 +6,7 @@
 
 
 <!-- Texto centralizado -->
-<h1 align="center">Olá, sou o Lucas! 🇧🇷 </h1>
+<h1 align="center">Olá, sou o Lucas! </h1>
 
 <p align="center">Sou um entusiasta da tecnologia apaixonado por desenvolver soluções criativas e eficazes. Atualmente, estou embarcando na emocionante jornada de se tornar um desenvolvedor de software versátil.</p>
 
