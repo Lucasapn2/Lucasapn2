@@ -1,8 +1,9 @@
 <!-- Div para centralizar a imagem -->
 <div style="text-align: center;">
-    <!-- Imagem de capa responsiva -->
-    <img style="margin-bottom: 100px; max-width: 100%; height: auto;" src="https://github.com/Lucasapn2/Lucasapn2/assets/129186705/3a9f4abd-ad4b-4540-96f5-6b62bccdc907">
+    <!-- Imagem de capa responsiva com altura definida -->
+    <img style="margin-bottom: 100px; height: 891px; width: auto;" src="https://github.com/Lucasapn2/Lucasapn2/assets/129186705/3a9f4abd-ad4b-4540-96f5-6b62bccdc907">
 </div>
+
 
 <!-- Texto centralizado -->
 <h1 align="center">Olá, sou o Lucas! 👋</h1>
