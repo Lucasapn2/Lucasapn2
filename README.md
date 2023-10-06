@@ -1,7 +1,8 @@
 <!-- Div para centralizar a imagem -->
 <div align="center">
     <!-- Imagem de capa responsiva -->
-    <img src="https://github.com/Lucasapn2/Lucasapn2/assets/129186705/3a9f4abd-ad4b-4540-96f5-6b62bccdc907" width="850" height="259" style="object-fit: cover;">
+    <img src="![image](https://github.com/Lucasapn2/Lucasapn2/assets/129186705/6d026f0b-09e1-4a2f-b145-3a40c9264c2c)
+" width="850" height="259" style="object-fit: cover;">
 </div>
 
 
