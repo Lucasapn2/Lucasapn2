@@ -5,11 +5,12 @@
 
 
 <!-- Texto centralizado -->
-<h1 align="center">Olá, sou o Lucas! </h1>
+<h1 align="center">Hi, I'm Lucas! </h1>
 
-<p align="center">Sou um entusiasta da tecnologia apaixonado por desenvolver soluções criativas e eficazes. Atualmente, estou embarcando na emocionante jornada de se tornar um desenvolvedor de software versátil.</p>
+<p align="center">I am a technology enthusiast who is passionate about developing creative and effective solutions. I am currently embarking on the exciting journey of becoming a versatile software developer.
+</p>
 
-<h2 align="center">O que eu faço:</h2>
+<h2 align="center">What I do:</h2>
 
 - 💻 Desenvolvimento Front-End e Back-End em Python
 - 🌐 Construção de aplicações web com Flask e Django
@@ -20,7 +21,7 @@
 
 <h2 align="center">Meus Objetivos:</h2>
 
-<p align="center">Estou sempre em busca de novos desafios e oportunidades de aprendizado. Meu objetivo é aplicar minha paixão por resolver problemas usando a tecnologia em projetos empolgantes e colaborativos. Estou pronto para contribuir com minha energia e habilidades para a comunidade de desenvolvimento.</p>
+<p align="center">I am always looking for new challenges and learning opportunities. My goal is to apply my passion for solving problems using technology to exciting and collaborative projects. I am ready to contribute my energy and skills to the development community.</p>
 
 <!-- Estatísticas das linguagens -->
 <p align="center">
