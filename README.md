@@ -19,7 +19,7 @@
 - 📊 Manipulação de dados e visualização com Pandas e Matplotlib
 - 🧰 Explorando novos frameworks e tecnologias
 
-<h2 align="center">Meus Objetivos:</h2>
+<h2 align="center">My Goals:</h2>
 
 <p align="center">I am always looking for new challenges and learning opportunities. My goal is to apply my passion for solving problems using technology to exciting and collaborative projects. I am ready to contribute my energy and skills to the development community.</p>
 
