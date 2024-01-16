@@ -12,12 +12,12 @@
 
 <h2 align="center">What I do:</h2>
 
-- 💻 Desenvolvimento Front-End e Back-End em Python
-- 🌐 Construção de aplicações web com Flask e Django
-- 🤖 Automação de tarefas com Python e Selenium
-- 🖥️ Desenvolvimento de interfaces gráficas com Python
-- 📊 Manipulação de dados e visualização com Pandas e Matplotlib
-- 🧰 Explorando novos frameworks e tecnologias
+- 💻 Full Stack Development with Python
+- 🌐 Building web applications with Flask and Django
+- 🤖 Task Automation with Python and Selenium
+- 🖥️ Developing graphical interfaces with Python
+- 📊 Data manipulation and visualization using Pandas and Matplotlib
+- 🧰 Exploring new frameworks and technologies
 
 <h2 align="center">My Goals:</h2>
 
