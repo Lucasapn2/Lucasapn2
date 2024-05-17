@@ -1,6 +1,7 @@
 <div align="center">
     <!-- Imagem de capa responsiva -->
-    <img src="https://github.com/Lucasapn2/Lucasapn2/assets/129186705/6d026f0b-09e1-4a2f-b145-3a40c9264c2c" width="850" height="259" style="object-fit: cover;">
+    <img src="![image](https://github.com/Lucasapn2/Lucasapn2/assets/129186705/e095c607-95c6-446d-9f56-7e1e1defc2ef)
+" width="850" height="259" style="object-fit: cover;">
 </div>
 
 
