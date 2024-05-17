@@ -1,6 +1,7 @@
 <div align="center">
-    <img src=![image](https://github.com/Lucasapn2/Lucasapn2/assets/129186705/831340bb-6cd6-483e-ba01-92047e3d6f8a) width="850" height="259" style="object-fit: cover;">
+    <img src="https://raw.githubusercontent.com/Lucasapn2/Lucasapn2/main/assets/129186705/831340bb-6cd6-483e-ba01-92047e3d6f8a" width="850" height="259" style="object-fit: cover;">
 </div>
+
 
 
 <h1 align="center">Hi, I'm Lucas! </h1>
