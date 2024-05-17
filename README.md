@@ -1,6 +1,7 @@
 <div align="center">
-    <img src="![Screenshot_3](https://github.com/Lucasapn2/Lucasapn2/assets/129186705/417f8092-ffec-4051-8de4-5c272f9d4dd4)
-" width="850" height="259" style="object-fit: cover;">
+   [ <img src="![Screenshot_3](https://github.com/Lucasapn2/Lucasapn2/assets/129186705/417f8092-ffec-4051-8de4-5c272f9d4dd4)
+" width="850" height="259" style="object-fit: cover;">](https://github.com/Lucasapn2/Lucasapn2/raw/main/129186705/417f8092-ffec-4051-8de4-5c272f9d4dd4/Screenshot_3.png
+)
 </div>
 
 
