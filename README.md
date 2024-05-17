@@ -1,11 +1,8 @@
 <div align="center">
-    <!-- Imagem de capa responsiva -->
-    <img src="![image](https://github.com/Lucasapn2/Lucasapn2/assets/129186705/e095c607-95c6-446d-9f56-7e1e1defc2ef)
-" width="850" height="259" style="object-fit: cover;">
+    <img src=![image](https://github.com/Lucasapn2/Lucasapn2/assets/129186705/831340bb-6cd6-483e-ba01-92047e3d6f8a) width="850" height="259" style="object-fit: cover;">
 </div>
 
 
-<!-- Texto centralizado -->
 <h1 align="center">Hi, I'm Lucas! </h1>
 
 <p align="center">I am a technology enthusiast who is passionate about developing creative and effective solutions. I am currently embarking on the exciting journey of becoming a versatile software developer.
@@ -24,13 +21,11 @@
 
 <p align="center">I am always looking for new challenges and learning opportunities. My goal is to apply my passion for solving problems using technology to exciting and collaborative projects. I am ready to contribute my energy and skills to the development community.</p>
 
-<!-- Estatísticas das linguagens -->
 <p align="center">
     <img width="55%" src="https://github-readme-streak-stats.herokuapp.com?user=Lucasapn2&theme=radical&mode=weekly" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasapn2&show_icons=true&theme=radical&layout=compact" />
 </p>
 
-<!-- Habilidades e ferramentas -->
 ## My Skills
 
 #### Main Stack:
