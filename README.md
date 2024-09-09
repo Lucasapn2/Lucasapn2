@@ -1,6 +1,3 @@
-<div align="center">
-    <img src="https://github.com/Lucasapn2/Lucasapn2/blob/main/home.g" width="850" height="259" style="object-fit: cover;">
-</div>
 
 
 
