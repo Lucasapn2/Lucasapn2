@@ -2,7 +2,7 @@ name: Generate Snake Animation 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite (UTC)
   workflow_dispatch:
 
 jobs:
@@ -16,17 +16,17 @@ jobs:
       - name: Create dist folder
         run: mkdir -p dist
 
-      - name: Generate Snake SVG
+      - name: Generate Snake SVGs (light and dark)
         uses: Platane/snk@v3
         with:
           github_user_name: Lucasapn2
           outputs: |
-            dist/snake-dark.svg
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
           color_snake: '#9400D3'
-          color_dots: '#CCCCCC'
-          color_background: '#000000'
+          color_dots: '#CCCCCC,#8dbdff,#64a1f4,#4b91f1,#3c7dd9'
 
-      - name: Push Snake SVG to output branch
+      - name: Push Snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
