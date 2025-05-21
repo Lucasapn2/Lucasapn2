@@ -2,7 +2,7 @@ name: Generate Snake Animation 🐍
 
 on:
   schedule:
-    - cron: "0 0 * * *"  
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
@@ -22,6 +22,9 @@ jobs:
           github_user_name: Lucasapn2
           outputs: |
             dist/snake.svg
+
+      - name: List dist folder contents
+        run: ls -la dist
 
       - name: Push Snake SVG to output branch
         uses: crazy-max/ghaction-github-pages@v3
