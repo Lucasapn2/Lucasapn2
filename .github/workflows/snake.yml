@@ -22,6 +22,8 @@ jobs:
           github_user_name: Lucasapn2
           outputs: |
             dist/snake.svg
+          color_snake: '#00FF00'      # Verde para a cobra
+          color_dots: '#888888'       # Cinza claro para os pontos do grid
 
       - name: List dist folder contents
         run: ls -la dist
