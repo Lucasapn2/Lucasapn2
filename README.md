@@ -9,6 +9,9 @@
   <a href="mailto:contato.lucas.gtidev.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red"/>
   </a>
+   <a href="https://www.youtube.com/@Cronicaspgmc" target="_blank">
+    <img src="https://img.shields.io/badge/-YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
 </p>
 
 ---
