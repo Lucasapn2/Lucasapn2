@@ -41,9 +41,11 @@
 
 ---
 
-## 🔥 Stats
-
 <div align="center">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Lucasapn2&theme=tokyonight&mode=weekly" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasapn2&show_icons=true&theme=tokyonight&layout=compact" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Lucasapn2/Lucasapn2/output/snake.svg" alt="snake animation" />
 </div>
