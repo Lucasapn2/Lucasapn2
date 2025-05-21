@@ -46,6 +46,8 @@
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasapn2&show_icons=true&theme=tokyonight&layout=compact" />
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Lucasapn2/Lucasapn2/output/snake.svg" alt="snake animation" />
-</div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucasapn2/Lucasapn2/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucasapn2/Lucasapn2/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Lucasapn2/Lucasapn2/output/github-snake.svg" />
+</picture>
