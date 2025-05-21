@@ -22,16 +22,7 @@ jobs:
           github_user_name: Lucasapn2
           outputs: |
             dist/snake.svg
-          color_snake: '#00FF00'      # Verde para a cobra
-          color_dots: '#888888'       # Cinza claro para os pontos do grid
+          color_snake: '#9400D3'       # Roxo (igual o que aparece na sua imagem)
+          color_dots: '#CCCCCC'        # Cinza claro
+          color_background: '#000000'  # Fundo preto
 
-      - name: List dist folder contents
-        run: ls -la dist
-
-      - name: Push Snake SVG to output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
