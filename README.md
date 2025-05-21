@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 About Me
+##  About Me
 
 👋 Hi! My name is **Lucas Ferreira**  
 🎓 I'm a student of **Systems Analysis and Development**  
