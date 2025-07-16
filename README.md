@@ -59,5 +59,6 @@
 <h2 align="center">🟡 Pac-Man nos Commits</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Lucasapn2/Lucasapn2/main/dist/pacman-contribution-graph.svg" alt="Pacman Contribution Graph"/>
+  <img src="https://raw.githubusercontent.com/Lucasapn2/Lucasapn2/output/pacman-contribution-graph.svg" />
+
 </p>
