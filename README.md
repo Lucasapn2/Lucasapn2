@@ -55,3 +55,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucasapn2/Lucasapn2/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Lucasapn2/Lucasapn2/output/github-snake.svg" />
 </picture>
+
+<h2 align="center">🟡 Pac-Man nos Commits</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Lucasapn2/Lucasapn2/main/dist/pacman-contribution-graph.svg" alt="Pacman Contribution Graph"/>
+</p>
