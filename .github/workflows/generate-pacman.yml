@@ -20,9 +20,10 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
+          generate_dark: true
 
       - name: Commit e push
         uses: EndBug/add-and-commit@v9
         with:
           message: "Gerando pacman-contribution-graph.svg"
-          add: "dist/pacman-contribution-graph.svg"
+          add: "dist/*.svg"
