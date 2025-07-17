@@ -57,6 +57,7 @@
 </picture>
 -->
 
+---
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lucasapn2/Lucasapn2/main/dist/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lucasapn2/Lucasapn2/main/dist/pacman-contribution-graph.svg">
