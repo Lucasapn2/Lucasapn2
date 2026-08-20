@@ -19,7 +19,7 @@
 ##  About Me
 
 👋 Hi! My name is **Lucas Ferreira**  
-🎓 I'm a student of **Systems Analysis and Development**  
+🎓 I'm a **Software Developer**  
 🎯 My current goal is to become a **Full Stack Developer**  
 🌐 Passionate about development and technology  
 💡 I enjoy challenges and solving problems in creative ways
